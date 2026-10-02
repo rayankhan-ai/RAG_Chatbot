@@ -27,6 +27,27 @@ The system allows users to upload multiple PDF documents, build a persistent loc
 * 🔐 **Local-first AI architecture**
 
 ---
+## 📸 Demo
+
+### Main Interface
+
+![AI RAG Chatbot Main Interface](assets/main-interface.png)
+
+### Multi-PDF Knowledge Base
+
+![Multi-PDF Knowledge Base](assets/multi-pdf.png)
+
+### RAG Answer with Sources
+
+![RAG Answer with Sources](assets/rag-answer.png)
+
+### Conversational Memory
+
+![Conversational Memory](assets/conversation-memory.png)
+
+### Retrieval Analytics
+
+![Retrieval Analytics](assets/retrieval-analytics.png)
 
 # 📌 Table of Contents
 
